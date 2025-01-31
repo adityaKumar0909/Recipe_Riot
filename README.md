@@ -14,7 +14,6 @@ Welcome to RecipeRiot, a beautifully crafted Flutter app that transforms the way
 * 📊 Nutritional Breakdown – Stay on top of your health with precise calorie counts, macronutrient details, and dietary info.
 * 📖 Step-by-Step Cooking Instructions – Cook with confidence using easy-to-follow guides for every recipe.
 * 🛒 Smart Grocery Suggestions – Missing an ingredient? Get grocery delivery options from Zomato, Swiggy, or Blinkit.
-* 📍 Find Nearby Restaurants – Craving a dish but don’t feel like cooking? Check if local restaurants serve it!
 * ❤️ Save Your Favorites – Bookmark your go-to recipes and build your personal cookbook.
 
 
